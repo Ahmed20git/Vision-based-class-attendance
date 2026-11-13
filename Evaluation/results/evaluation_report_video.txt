@@ -1,0 +1,10 @@
+== Faces from the video (threshold 0.30) ==
+Faces: 1176   Accuracy: 95.2%
+Macro precision: 90.3%   Macro recall: 73.5%   Macro F1: 80.0%
+       101: precision 89.7%  recall 96.3%  F1 92.9%  (27 faces)
+       102: precision 93.9%  recall 78.0%  F1 85.2%  (59 faces)
+       103: precision 77.8%  recall 41.2%  F1 53.8%  (34 faces)
+       104: precision 100.0%  recall 78.6%  F1 88.0%  (56 faces)
+   unknown: precision 95.6%  recall 99.0%  F1 97.2%  (1000 faces)
+Enrolled faces: 176, given the wrong student: 0, missed (said unknown): 46
+Non-enrolled faces: 1000, wrongly accepted as a student: 10 (1.0%)

@@ -1,0 +1,34 @@
+# Personal data: faces, face signatures, databases, videos (never commit)
+*.db
+*.db-journal
+*.pkl
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+*.mp4
+*.mov
+*.MOV
+*.avi
+Enrollment/registered_faces/
+Attendance/
+Evaluation/input*/
+Evaluation/ground_truth/
+Evaluation/results/
+Evaluation/*/input/
+Evaluation/*/ground_truth/
+Evaluation/*/results/
+New_Dataset*/
+recognized_classroom.jpg
+app_settings.json
+
+# Python / tooling
+.venv/
+venv/
+__pycache__/
+*.pyc
+.gradio/
+.ipynb_checkpoints/
+.DS_Store
+*.zip

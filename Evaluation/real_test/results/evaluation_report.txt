@@ -1,0 +1,25 @@
+== All faces (threshold 0.30) ==
+Faces: 14   Accuracy: 71.4%
+Macro precision: 100.0%   Macro recall: 71.4%   Macro F1: 82.5%
+       105: precision 100.0%  recall 57.1%  F1 72.7%  (7 faces)
+       106: precision 100.0%  recall 85.7%  F1 92.3%  (7 faces)
+Enrolled faces: 14, given the wrong student: 0, missed (said unknown): 4
+
+== Condition: DarkTest ==
+Faces: 7   Accuracy: 57.1%
+Macro precision: 100.0%   Macro recall: 57.1%   Macro F1: 72.7%
+       105: precision 100.0%  recall 57.1%  F1 72.7%  (7 faces)
+Enrolled faces: 7, given the wrong student: 0, missed (said unknown): 3
+
+== Condition: FacePix ==
+Faces: 7   Accuracy: 85.7%
+Macro precision: 100.0%   Macro recall: 85.7%   Macro F1: 92.3%
+       106: precision 100.0%  recall 85.7%  F1 92.3%  (7 faces)
+Enrolled faces: 7, given the wrong student: 0, missed (said unknown): 1
+
+== Condition: original ==
+Faces: 2   Accuracy: 100.0%
+Macro precision: 100.0%   Macro recall: 100.0%   Macro F1: 100.0%
+       105: precision 100.0%  recall 100.0%  F1 100.0%  (1 faces)
+       106: precision 100.0%  recall 100.0%  F1 100.0%  (1 faces)
+Enrolled faces: 2, given the wrong student: 0, missed (said unknown): 0
